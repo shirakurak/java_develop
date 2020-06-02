@@ -7,6 +7,6 @@
 
 public class cf_sample {
 
-    Collection<String> strings;
+    Collection<String> c1 = new ArrayList<String>();
     
 }
