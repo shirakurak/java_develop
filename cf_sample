@@ -1,0 +1,12 @@
+// コレクションフレームワーク
+// 配列よりも高度なデータコンテナ
+
+// List, Setインタフェースは
+// Iteratorインタフェース（イテレータ）を文字いて
+// 順次処理を実行する
+
+public class cf_sample {
+
+    Collection<String> strings;
+    
+}
