@@ -1,0 +1,8 @@
+<!-- SuperCSV：CSVファイルのデータを
+正しく読み書きしてくれるライブラリ
+Mavenには以下のように記述： -->
+<dependency>
+    <groupId>net.sf.supercsv</groupId>
+    <artifactId>super-csv</artifactId>
+    <version>2.4.0</version>
+</dependency>
